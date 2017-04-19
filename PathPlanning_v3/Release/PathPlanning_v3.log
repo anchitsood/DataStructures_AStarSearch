@@ -1,0 +1,22 @@
+﻿Build started 4/18/2017 9:50:17 PM.
+     1>Project "C:\Users\anchits\Documents\Visual Studio 2013\Projects\PathPlanning_v3\PathPlanning_v3\PathPlanning_v3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt grid.cpp main.cpp solver.cpp
+         grid.cpp
+         main.cpp
+         solver.cpp
+     1>solver.cpp(493): warning C4172: returning address of local variable or temporary
+     1>solver.cpp(499): warning C4172: returning address of local variable or temporary
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\anchits\Documents\Visual Studio 2013\Projects\PathPlanning_v3\Release\PathPlanning_v3.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\anchits\Documents\Visual Studio 2013\Projects\PathPlanning_v3\Release\PathPlanning_v3.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\anchits\Documents\Visual Studio 2013\Projects\PathPlanning_v3\Release\PathPlanning_v3.lib" /MACHINE:X86 /SAFESEH Release\grid.obj
+         Release\main.obj
+         Release\solver.obj
+         Generating code
+     1>c:\users\anchits\documents\visual studio 2013\projects\pathplanning_v3\pathplanning_v3\solver.cpp(862): warning C4715: 'Solver::convertDirToAngle' : not all control paths return a value
+         Finished generating code
+         PathPlanning_v3.vcxproj -> C:\Users\anchits\Documents\Visual Studio 2013\Projects\PathPlanning_v3\Release\PathPlanning_v3.exe
+     1>Done Building Project "C:\Users\anchits\Documents\Visual Studio 2013\Projects\PathPlanning_v3\PathPlanning_v3\PathPlanning_v3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.35

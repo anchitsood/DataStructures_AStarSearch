@@ -1,15 +1,15 @@
-﻿Build started 3/10/2017 5:31:07 AM.
-     1>Project "C:\Users\anchits\documents\visual studio 2013\Projects\PathPlanning_v3\PathPlanning_v3\PathPlanning_v3.vcxproj" on node 2 (Build target(s)).
+﻿Build started 4/7/2017 3:18:52 PM.
+     1>Project "C:\Users\anchits\Documents\Visual Studio 2013\Projects\PathPlanning_v3\PathPlanning_v3\PathPlanning_v3.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
          main.cpp
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\anchits\documents\visual studio 2013\Projects\PathPlanning_v3\Debug\PathPlanning_v3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\anchits\documents\visual studio 2013\Projects\PathPlanning_v3\Debug\PathPlanning_v3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\anchits\documents\visual studio 2013\Projects\PathPlanning_v3\Debug\PathPlanning_v3.lib" /MACHINE:X86 Debug\grid.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\anchits\Documents\Visual Studio 2013\Projects\PathPlanning_v3\Debug\PathPlanning_v3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\anchits\Documents\Visual Studio 2013\Projects\PathPlanning_v3\Debug\PathPlanning_v3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\anchits\Documents\Visual Studio 2013\Projects\PathPlanning_v3\Debug\PathPlanning_v3.lib" /MACHINE:X86 Debug\grid.obj
          Debug\main.obj
          Debug\solver.obj
-         PathPlanning_v3.vcxproj -> C:\Users\anchits\documents\visual studio 2013\Projects\PathPlanning_v3\Debug\PathPlanning_v3.exe
-     1>Done Building Project "C:\Users\anchits\documents\visual studio 2013\Projects\PathPlanning_v3\PathPlanning_v3\PathPlanning_v3.vcxproj" (Build target(s)).
+         PathPlanning_v3.vcxproj -> C:\Users\anchits\Documents\Visual Studio 2013\Projects\PathPlanning_v3\Debug\PathPlanning_v3.exe
+     1>Done Building Project "C:\Users\anchits\Documents\Visual Studio 2013\Projects\PathPlanning_v3\PathPlanning_v3\PathPlanning_v3.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.36
+Time Elapsed 00:00:00.43

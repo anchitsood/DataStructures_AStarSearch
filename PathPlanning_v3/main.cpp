@@ -97,6 +97,18 @@ int main()
 
 
 
+
+	Grid gridE = Grid(75, 50, false);
+	gridE.setInterleavedObstacle(390, 3, true);
+
+	gridE.setStart(-1);
+	gridE.setGoal(-1);
+
+	gridE.consoleDraw();
+
+	Solver solverE = iterateOverPenalties(gridE, 30, 5);
+
+
 }
 
 
